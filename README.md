@@ -12,7 +12,7 @@ A simple batch/PS script that will ping 8.8.8.8 continuously with timestamps.
 Terminate batch job (Y/N)?
 ```
 
-## Note
+## Usage
 - Run `ping.bat` to start the script.
 - Press `CTRL + C` to stop pinging the IP address.
 - Feel free to change the IP address.
