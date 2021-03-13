@@ -1,5 +1,5 @@
 # simple-ping-test
-A simple batch script that will ping 8.8.8.8 continuously with timestamps. 
+A simple batch/PS script that will ping 8.8.8.8 continuously with timestamps. 
 
 ## Example
 ```ps1
