@@ -13,5 +13,6 @@ Terminate batch job (Y/N)?
 ```
 
 ## Note
-- Feel free to change the IP address.
+- Run `ping.bat` to start the script.
 - Press `CTRL + C` to stop pinging the IP address.
+- Feel free to change the IP address.
