@@ -15,4 +15,5 @@ Terminate batch job (Y/N)?
 ## Usage
 - Run `ping.bat` to start the script.
 - Press `CTRL + C` to stop pinging the IP address.
+- The log file, `pingtest.txt`, is continously written while running.
 - Feel free to change the IP address.
